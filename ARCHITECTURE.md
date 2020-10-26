@@ -6,110 +6,110 @@ Text text text.
 
 Text text text.
  
-## Functional Requirements	5
+## Functional Requirements
 
 Text text text.
  
-## Non-Functional Requirements	5
+## Non-Functional Requirements
 
 Text text text.
  
-# Executive Summary	6
+# Executive Summary
 
 Text text text.
  
-# Overall Architecture	7
+# Overall Architecture
 
 Text text text.
  
-## Services	7
+## Services
 
 Text text text.
  
-## Scaling	8
+## Scaling
 
 Text text text.
  
-## Messaging	8
+## Messaging
 
-# Services Drill Down	9
+# Services Drill Down
 
-## Logging	9
-
-Text text text.
- 
-### Role	9
+## Logging
 
 Text text text.
  
-### Technology Stack	9
+### Role
 
 Text text text.
  
-### Architecture	10
+### Technology Stack
 
 Text text text.
  
-### Implementation Instructions	11
+### Architecture
 
 Text text text.
  
-## Receiver	11
+### Implementation Instructions
 
 Text text text.
  
-### Role	11
+## Receiver
 
 Text text text.
  
-### Technology Stack	12
+### Role
 
 Text text text.
  
-### Architecture	10
+### Technology Stack	
 
 Text text text.
  
-### Implementation Instructions	11
+### Architecture
 
 Text text text.
  
-## Handler	13
+### Implementation Instructions
 
 Text text text.
  
-### Role	13
+## Handler
 
 Text text text.
  
-### Technology Stack	14
+### Role
 
 Text text text.
  
-### Architecture	14
+### Technology Stack
 
 Text text text.
  
-### Implementation Instructions	15
+### Architecture
 
 Text text text.
  
-## Info	15
+### Implementation Instructions
 
 Text text text.
  
-### Role	15
+## Info
 
 Text text text.
  
-### Technology Stack	16
+### Role
 
 Text text text.
  
-### Architecture	16
+### Technology Stack
 
 Text text text.
  
-### Implementation Instructions	18
+### Architecture
+
+Text text text.
+ 
+### Implementation Instructions
 
 Text text text. 
