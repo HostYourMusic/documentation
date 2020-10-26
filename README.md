@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Welcome to HostYourMusic Documentation 👋</h1>
+<h1 align="center">Welcome to HostYourMusic Documentation 👋</h1>
 <p>
 </p>
 
